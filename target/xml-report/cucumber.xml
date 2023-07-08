@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.381" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Sitenin footer bölümünde bulunan Featured Packages bölümündeki öğelerin görüntülenebilir" name="Sitenin footer bölümünde bulunan Featured Packages bölümündeki 1. Sekmenin görüntülenebilir ve aktif olduğunu doğrulanmalı" time="7.199">
+<system-out><![CDATA[
+Given TripandwayUrl adresine gidilir........................................passed
+Then Cookies varsa kabul edilir.............................................passed
+And Sayfanın Footer bölümüne inilir.........................................passed
+And footer bölümünde bulunan Featured Packages bölümündeki "1.Sekmeyi tıkla.passed
+When 1.Sekmenin sayfasının açıldığını test et...............................passed
+And Sayfayi kapatir.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
